@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/ECSPowerNetcode"]
+	path = Assets/Plugins/ECSPowerNetcode
+	url = git@github.com:actionk/ECSPowerNetcode.git
+[submodule "Assets/Plugins/ECSEntityBuilder"]
+	path = Assets/Plugins/ECSEntityBuilder
+	url = git@github.com:actionk/UnityECSEntityBuilder.git
